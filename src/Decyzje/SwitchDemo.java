@@ -13,7 +13,7 @@ public class SwitchDemo {
         int liczba = 5;
         String napis = " ";
 
-        switch (liczba) {
+        switch (litera) {
             case 'a':
                 System.out.println("Styczeń");
                 break;

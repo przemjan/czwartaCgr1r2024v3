@@ -6,7 +6,6 @@ public class Pozyczka2 {
     public static void main(String[] args) {
 
         double zarobki, staz;
-
         double progZarobki, progStaz;
 
         progZarobki = 1000000;
