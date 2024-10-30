@@ -28,5 +28,6 @@ public class Zmienne {
 
         boolean sun = false;
 
+        // https://github.com/przemjan/czwartaCgr1r2024v3
     }
 }

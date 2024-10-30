@@ -29,7 +29,7 @@ public class generateCheatSheet {
                         ctrl k = commit (zapisz lokalnie zmiany)
                         ctrl shift k = push (zapisz zmiany na serwerze)
                         ctrl t = update (ściągnij zmiany z serwera)
-                        
+                       \s
                         Ustawienie użytkownika (globalne):
                         git config --global user.name "FIRST_NAME LAST_NAME"
                         Ustawienie maila (globalne) :
@@ -37,7 +37,7 @@ public class generateCheatSheet {
                         czyszczenie historii w gitBashu:
                         rm ~/.bash_history
                         history -c
-                        
+                       \s
                         Ustawienie użytkownika (lokalne):
                         git config user.name "FIRST_NAME LAST_NAME"
                         Ustawienie maila (lokalne):
@@ -53,7 +53,7 @@ public class generateCheatSheet {
                     sout = System.out.println();
 
                 Ustawienia:
-                    
+                   \s
                     Skrót do ustawień: ctrl alt s
                     File -> Settings = ustawienia globalne
                     File -> Settings -> Appearance&Behaviour -> Appearance = ustawienia wyglądu (jasny, ciemny)
